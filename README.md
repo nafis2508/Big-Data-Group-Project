@@ -1,8 +1,4 @@
 # Big-Data-Group-Project
-Here's a detailed GitHub README for your project, which incorporates explanations for each file, functionality, and performance considerations.
-
----
-
 # Skyline Query and Nearest Neighbor Search using R-Trees
 
 This repository provides Python implementations for solving two main computational geometry tasks: **Skyline Query Search** and **Nearest Neighbor Search**. Both tasks leverage **R-tree** spatial indexing to efficiently perform complex spatial operations. The repository is divided into two tasks, each of which implements different query processing techniques on a spatial dataset.
