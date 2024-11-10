@@ -1,0 +1,604 @@
+Sequential Scan - Query 1: id=69898, x=47.31, y=128.88
+Best First - Query 1: id=69898, x=47.31, y=128.88
+Divide and Conquer - Query 1: id=69898, x=47.31, y=128.88
+Sequential Scan - Query 2: id=54172, x=51.80, y=125.79
+Best First - Query 2: id=54172, x=51.80, y=125.79
+Divide and Conquer - Query 2: id=54172, x=51.80, y=125.79
+Sequential Scan - Query 3: id=21954, x=21.24, y=106.03
+Best First - Query 3: id=21954, x=21.24, y=106.03
+Divide and Conquer - Query 3: id=21954, x=21.24, y=106.03
+Sequential Scan - Query 4: id=30416, x=5.92, y=132.46
+Best First - Query 4: id=30416, x=5.92, y=132.46
+Divide and Conquer - Query 4: id=30416, x=5.92, y=132.46
+Sequential Scan - Query 5: id=31782, x=64.97, y=94.72
+Best First - Query 5: id=31782, x=64.97, y=94.72
+Divide and Conquer - Query 5: id=31782, x=64.97, y=94.72
+Sequential Scan - Query 6: id=49790, x=89.52, y=115.10
+Best First - Query 6: id=49790, x=89.52, y=115.10
+Divide and Conquer - Query 6: id=49790, x=89.52, y=115.10
+Sequential Scan - Query 7: id=84103, x=89.46, y=95.19
+Best First - Query 7: id=84103, x=89.46, y=95.19
+Divide and Conquer - Query 7: id=84103, x=89.46, y=95.19
+Sequential Scan - Query 8: id=6099, x=3.70, y=126.05
+Best First - Query 8: id=6099, x=3.70, y=126.05
+Divide and Conquer - Query 8: id=6099, x=3.70, y=126.05
+Sequential Scan - Query 9: id=141443, x=22.35, y=97.10
+Best First - Query 9: id=141443, x=22.35, y=97.10
+Divide and Conquer - Query 9: id=141443, x=22.35, y=97.10
+Sequential Scan - Query 10: id=12083, x=47.54, y=134.03
+Best First - Query 10: id=12083, x=47.54, y=134.03
+Divide and Conquer - Query 10: id=12083, x=47.54, y=134.03
+Sequential Scan - Query 11: id=1351, x=69.39, y=126.40
+Best First - Query 11: id=1351, x=69.39, y=126.40
+Divide and Conquer - Query 11: id=1351, x=69.39, y=126.40
+Sequential Scan - Query 12: id=122773, x=22.38, y=141.89
+Best First - Query 12: id=122773, x=22.38, y=141.89
+Divide and Conquer - Query 12: id=122773, x=22.38, y=141.89
+Sequential Scan - Query 13: id=118704, x=34.52, y=93.67
+Best First - Query 13: id=118704, x=34.52, y=93.67
+Divide and Conquer - Query 13: id=118704, x=34.52, y=93.67
+Sequential Scan - Query 14: id=49199, x=88.61, y=138.29
+Best First - Query 14: id=49199, x=88.61, y=138.29
+Divide and Conquer - Query 14: id=49199, x=88.61, y=138.29
+Sequential Scan - Query 15: id=52515, x=77.65, y=86.08
+Best First - Query 15: id=52515, x=77.65, y=86.08
+Divide and Conquer - Query 15: id=52515, x=77.65, y=86.08
+Sequential Scan - Query 16: id=8582, x=23.39, y=144.88
+Best First - Query 16: id=8582, x=23.39, y=144.88
+Divide and Conquer - Query 16: id=8582, x=23.39, y=144.88
+Sequential Scan - Query 17: id=5678, x=55.74, y=102.81
+Best First - Query 17: id=5678, x=55.74, y=102.81
+Divide and Conquer - Query 17: id=5678, x=55.74, y=102.81
+Sequential Scan - Query 18: id=129379, x=54.76, y=120.24
+Best First - Query 18: id=129379, x=54.76, y=120.24
+Divide and Conquer - Query 18: id=129379, x=54.76, y=120.24
+Sequential Scan - Query 19: id=66442, x=40.00, y=138.05
+Best First - Query 19: id=66442, x=40.00, y=138.05
+Divide and Conquer - Query 19: id=66442, x=40.00, y=138.05
+Sequential Scan - Query 20: id=86614, x=40.19, y=124.10
+Best First - Query 20: id=86614, x=40.19, y=124.10
+Divide and Conquer - Query 20: id=86614, x=40.19, y=124.10
+Sequential Scan - Query 21: id=73465, x=43.79, y=97.90
+Best First - Query 21: id=73465, x=43.79, y=97.90
+Divide and Conquer - Query 21: id=73465, x=43.79, y=97.90
+Sequential Scan - Query 22: id=17934, x=66.08, y=102.85
+Best First - Query 22: id=17934, x=66.08, y=102.85
+Divide and Conquer - Query 22: id=17934, x=66.08, y=102.85
+Sequential Scan - Query 23: id=132857, x=74.15, y=107.67
+Best First - Query 23: id=132857, x=74.15, y=107.67
+Divide and Conquer - Query 23: id=132857, x=74.15, y=107.67
+Sequential Scan - Query 24: id=124829, x=64.53, y=132.96
+Best First - Query 24: id=124829, x=64.53, y=132.96
+Divide and Conquer - Query 24: id=124829, x=64.53, y=132.96
+Sequential Scan - Query 25: id=99685, x=35.26, y=159.31
+Best First - Query 25: id=99685, x=35.26, y=159.31
+Divide and Conquer - Query 25: id=99685, x=35.26, y=159.31
+Sequential Scan - Query 26: id=78942, x=38.56, y=85.56
+Best First - Query 26: id=78942, x=38.56, y=85.56
+Divide and Conquer - Query 26: id=78942, x=38.56, y=85.56
+Sequential Scan - Query 27: id=139526, x=1.43, y=88.79
+Best First - Query 27: id=139526, x=1.43, y=88.79
+Divide and Conquer - Query 27: id=139526, x=1.43, y=88.79
+Sequential Scan - Query 28: id=131582, x=58.28, y=98.60
+Best First - Query 28: id=131582, x=58.28, y=98.60
+Divide and Conquer - Query 28: id=131582, x=58.28, y=98.60
+Sequential Scan - Query 29: id=41510, x=62.16, y=124.59
+Best First - Query 29: id=41510, x=62.16, y=124.59
+Divide and Conquer - Query 29: id=41510, x=62.16, y=124.59
+Sequential Scan - Query 30: id=24332, x=87.73, y=94.97
+Best First - Query 30: id=24332, x=87.73, y=94.97
+Divide and Conquer - Query 30: id=24332, x=87.73, y=94.97
+Sequential Scan - Query 31: id=5843, x=39.22, y=99.00
+Best First - Query 31: id=5843, x=39.22, y=99.00
+Divide and Conquer - Query 31: id=5843, x=39.22, y=99.00
+Sequential Scan - Query 32: id=89356, x=36.71, y=101.06
+Best First - Query 32: id=89356, x=36.71, y=101.06
+Divide and Conquer - Query 32: id=89356, x=36.71, y=101.06
+Sequential Scan - Query 33: id=37580, x=24.58, y=147.85
+Best First - Query 33: id=37580, x=24.58, y=147.85
+Divide and Conquer - Query 33: id=37580, x=24.58, y=147.85
+Sequential Scan - Query 34: id=60568, x=58.25, y=126.86
+Best First - Query 34: id=60568, x=58.25, y=126.86
+Divide and Conquer - Query 34: id=60568, x=58.25, y=126.86
+Sequential Scan - Query 35: id=129969, x=27.61, y=158.80
+Best First - Query 35: id=129969, x=27.61, y=158.80
+Divide and Conquer - Query 35: id=129969, x=27.61, y=158.80
+Sequential Scan - Query 36: id=98263, x=16.79, y=153.29
+Best First - Query 36: id=98263, x=16.79, y=153.29
+Divide and Conquer - Query 36: id=98263, x=16.79, y=153.29
+Sequential Scan - Query 37: id=102852, x=74.25, y=142.66
+Best First - Query 37: id=102852, x=74.25, y=142.66
+Divide and Conquer - Query 37: id=102852, x=74.25, y=142.66
+Sequential Scan - Query 38: id=117256, x=28.59, y=110.83
+Best First - Query 38: id=117256, x=28.59, y=110.83
+Divide and Conquer - Query 38: id=117256, x=28.59, y=110.83
+Sequential Scan - Query 39: id=121623, x=6.54, y=121.53
+Best First - Query 39: id=121623, x=6.54, y=121.53
+Divide and Conquer - Query 39: id=121623, x=6.54, y=121.53
+Sequential Scan - Query 40: id=31225, x=80.22, y=94.77
+Best First - Query 40: id=31225, x=80.22, y=94.77
+Divide and Conquer - Query 40: id=31225, x=80.22, y=94.77
+Sequential Scan - Query 41: id=83187, x=71.61, y=88.05
+Best First - Query 41: id=83187, x=71.61, y=88.05
+Divide and Conquer - Query 41: id=83187, x=71.61, y=88.05
+Sequential Scan - Query 42: id=101155, x=36.32, y=158.75
+Best First - Query 42: id=101155, x=36.32, y=158.75
+Divide and Conquer - Query 42: id=101155, x=36.32, y=158.75
+Sequential Scan - Query 43: id=110381, x=18.92, y=104.03
+Best First - Query 43: id=110381, x=18.92, y=104.03
+Divide and Conquer - Query 43: id=110381, x=18.92, y=104.03
+Sequential Scan - Query 44: id=33209, x=6.52, y=116.30
+Best First - Query 44: id=33209, x=6.52, y=116.30
+Divide and Conquer - Query 44: id=33209, x=6.52, y=116.30
+Sequential Scan - Query 45: id=149011, x=62.36, y=119.54
+Best First - Query 45: id=149011, x=62.36, y=119.54
+Divide and Conquer - Query 45: id=149011, x=62.36, y=119.54
+Sequential Scan - Query 46: id=91448, x=52.83, y=158.08
+Best First - Query 46: id=91448, x=52.83, y=158.08
+Divide and Conquer - Query 46: id=91448, x=52.83, y=158.08
+Sequential Scan - Query 47: id=12265, x=47.02, y=158.15
+Best First - Query 47: id=12265, x=47.02, y=158.15
+Divide and Conquer - Query 47: id=12265, x=47.02, y=158.15
+Sequential Scan - Query 48: id=33448, x=6.97, y=136.25
+Best First - Query 48: id=33448, x=6.97, y=136.25
+Divide and Conquer - Query 48: id=33448, x=6.97, y=136.25
+Sequential Scan - Query 49: id=93787, x=36.87, y=119.32
+Best First - Query 49: id=93787, x=36.87, y=119.32
+Divide and Conquer - Query 49: id=93787, x=36.87, y=119.32
+Sequential Scan - Query 50: id=47875, x=47.79, y=140.26
+Best First - Query 50: id=47875, x=47.79, y=140.26
+Divide and Conquer - Query 50: id=47875, x=47.79, y=140.26
+Sequential Scan - Query 51: id=115148, x=54.52, y=87.87
+Best First - Query 51: id=115148, x=54.52, y=87.87
+Divide and Conquer - Query 51: id=115148, x=54.52, y=87.87
+Sequential Scan - Query 52: id=9289, x=86.78, y=88.36
+Best First - Query 52: id=9289, x=86.78, y=88.36
+Divide and Conquer - Query 52: id=9289, x=86.78, y=88.36
+Sequential Scan - Query 53: id=9091, x=41.67, y=146.20
+Best First - Query 53: id=9091, x=41.67, y=146.20
+Divide and Conquer - Query 53: id=9091, x=41.67, y=146.20
+Sequential Scan - Query 54: id=78764, x=79.69, y=139.01
+Best First - Query 54: id=78764, x=79.69, y=139.01
+Divide and Conquer - Query 54: id=78764, x=79.69, y=139.01
+Sequential Scan - Query 55: id=57848, x=81.93, y=156.54
+Best First - Query 55: id=57848, x=81.93, y=156.54
+Divide and Conquer - Query 55: id=57848, x=81.93, y=156.54
+Sequential Scan - Query 56: id=139247, x=56.32, y=127.58
+Best First - Query 56: id=139247, x=56.32, y=127.58
+Divide and Conquer - Query 56: id=139247, x=56.32, y=127.58
+Sequential Scan - Query 57: id=106645, x=6.53, y=142.49
+Best First - Query 57: id=106645, x=6.53, y=142.49
+Divide and Conquer - Query 57: id=106645, x=6.53, y=142.49
+Sequential Scan - Query 58: id=121417, x=5.79, y=144.78
+Best First - Query 58: id=121417, x=5.79, y=144.78
+Divide and Conquer - Query 58: id=121417, x=5.79, y=144.78
+Sequential Scan - Query 59: id=141910, x=20.80, y=146.75
+Best First - Query 59: id=141910, x=20.80, y=146.75
+Divide and Conquer - Query 59: id=141910, x=20.80, y=146.75
+Sequential Scan - Query 60: id=50324, x=4.95, y=91.31
+Best First - Query 60: id=50324, x=4.95, y=91.31
+Divide and Conquer - Query 60: id=50324, x=4.95, y=91.31
+Sequential Scan - Query 61: id=124665, x=3.37, y=111.26
+Best First - Query 61: id=124665, x=3.37, y=111.26
+Divide and Conquer - Query 61: id=124665, x=3.37, y=111.26
+Sequential Scan - Query 62: id=55883, x=81.45, y=87.68
+Best First - Query 62: id=55883, x=81.45, y=87.68
+Divide and Conquer - Query 62: id=55883, x=81.45, y=87.68
+Sequential Scan - Query 63: id=91617, x=73.09, y=142.88
+Best First - Query 63: id=91617, x=73.09, y=142.88
+Divide and Conquer - Query 63: id=91617, x=73.09, y=142.88
+Sequential Scan - Query 64: id=109261, x=72.43, y=153.15
+Best First - Query 64: id=109261, x=72.43, y=153.15
+Divide and Conquer - Query 64: id=109261, x=72.43, y=153.15
+Sequential Scan - Query 65: id=3048, x=2.73, y=148.10
+Best First - Query 65: id=3048, x=2.73, y=148.10
+Divide and Conquer - Query 65: id=3048, x=2.73, y=148.10
+Sequential Scan - Query 66: id=89611, x=56.15, y=135.83
+Best First - Query 66: id=89611, x=56.15, y=135.83
+Divide and Conquer - Query 66: id=89611, x=56.15, y=135.83
+Sequential Scan - Query 67: id=411, x=16.15, y=125.20
+Best First - Query 67: id=411, x=16.15, y=125.20
+Divide and Conquer - Query 67: id=411, x=16.15, y=125.20
+Sequential Scan - Query 68: id=778, x=26.44, y=99.07
+Best First - Query 68: id=778, x=26.44, y=99.07
+Divide and Conquer - Query 68: id=778, x=26.44, y=99.07
+Sequential Scan - Query 69: id=140487, x=20.64, y=125.00
+Best First - Query 69: id=140487, x=20.64, y=125.00
+Divide and Conquer - Query 69: id=140487, x=20.64, y=125.00
+Sequential Scan - Query 70: id=149817, x=16.03, y=148.38
+Best First - Query 70: id=149817, x=16.03, y=148.38
+Divide and Conquer - Query 70: id=149817, x=16.03, y=148.38
+Sequential Scan - Query 71: id=109260, x=84.58, y=89.74
+Best First - Query 71: id=109260, x=84.58, y=89.74
+Divide and Conquer - Query 71: id=109260, x=84.58, y=89.74
+Sequential Scan - Query 72: id=114778, x=44.76, y=126.64
+Best First - Query 72: id=114778, x=44.76, y=126.64
+Divide and Conquer - Query 72: id=114778, x=44.76, y=126.64
+Sequential Scan - Query 73: id=33120, x=27.36, y=135.28
+Best First - Query 73: id=33120, x=27.36, y=135.28
+Divide and Conquer - Query 73: id=33120, x=27.36, y=135.28
+Sequential Scan - Query 74: id=142340, x=53.07, y=135.65
+Best First - Query 74: id=142340, x=53.07, y=135.65
+Divide and Conquer - Query 74: id=142340, x=53.07, y=135.65
+Sequential Scan - Query 75: id=66753, x=87.22, y=157.14
+Best First - Query 75: id=66753, x=87.22, y=157.14
+Divide and Conquer - Query 75: id=66753, x=87.22, y=157.14
+Sequential Scan - Query 76: id=10117, x=79.44, y=120.30
+Best First - Query 76: id=10117, x=79.44, y=120.30
+Divide and Conquer - Query 76: id=10117, x=79.44, y=120.30
+Sequential Scan - Query 77: id=15337, x=26.75, y=95.08
+Best First - Query 77: id=15337, x=26.75, y=95.08
+Divide and Conquer - Query 77: id=15337, x=26.75, y=95.08
+Sequential Scan - Query 78: id=136556, x=18.20, y=102.62
+Best First - Query 78: id=136556, x=18.20, y=102.62
+Divide and Conquer - Query 78: id=136556, x=18.20, y=102.62
+Sequential Scan - Query 79: id=38707, x=39.87, y=145.38
+Best First - Query 79: id=38707, x=39.87, y=145.38
+Divide and Conquer - Query 79: id=38707, x=39.87, y=145.38
+Sequential Scan - Query 80: id=3806, x=28.50, y=160.06
+Best First - Query 80: id=3806, x=28.50, y=160.06
+Divide and Conquer - Query 80: id=3806, x=28.50, y=160.06
+Sequential Scan - Query 81: id=118546, x=59.87, y=109.27
+Best First - Query 81: id=118546, x=59.87, y=109.27
+Divide and Conquer - Query 81: id=118546, x=59.87, y=109.27
+Sequential Scan - Query 82: id=9172, x=41.78, y=138.17
+Best First - Query 82: id=9172, x=41.78, y=138.17
+Divide and Conquer - Query 82: id=9172, x=41.78, y=138.17
+Sequential Scan - Query 83: id=49462, x=6.17, y=118.30
+Best First - Query 83: id=49462, x=6.17, y=118.30
+Divide and Conquer - Query 83: id=49462, x=6.17, y=118.30
+Sequential Scan - Query 84: id=26753, x=21.35, y=142.13
+Best First - Query 84: id=26753, x=21.35, y=142.13
+Divide and Conquer - Query 84: id=26753, x=21.35, y=142.13
+Sequential Scan - Query 85: id=56032, x=41.55, y=110.55
+Best First - Query 85: id=56032, x=41.55, y=110.55
+Divide and Conquer - Query 85: id=56032, x=41.55, y=110.55
+Sequential Scan - Query 86: id=73974, x=54.94, y=127.63
+Best First - Query 86: id=73974, x=54.94, y=127.63
+Divide and Conquer - Query 86: id=73974, x=54.94, y=127.63
+Sequential Scan - Query 87: id=71943, x=62.47, y=117.25
+Best First - Query 87: id=71943, x=62.47, y=117.25
+Divide and Conquer - Query 87: id=71943, x=62.47, y=117.25
+Sequential Scan - Query 88: id=134902, x=55.59, y=125.93
+Best First - Query 88: id=134902, x=55.59, y=125.93
+Divide and Conquer - Query 88: id=134902, x=55.59, y=125.93
+Sequential Scan - Query 89: id=83379, x=24.46, y=153.74
+Best First - Query 89: id=83379, x=24.46, y=153.74
+Divide and Conquer - Query 89: id=83379, x=24.46, y=153.74
+Sequential Scan - Query 90: id=79449, x=35.80, y=136.42
+Best First - Query 90: id=79449, x=35.80, y=136.42
+Divide and Conquer - Query 90: id=79449, x=35.80, y=136.42
+Sequential Scan - Query 91: id=96781, x=30.98, y=105.11
+Best First - Query 91: id=96781, x=30.98, y=105.11
+Divide and Conquer - Query 91: id=96781, x=30.98, y=105.11
+Sequential Scan - Query 92: id=130153, x=75.83, y=136.72
+Best First - Query 92: id=130153, x=75.83, y=136.72
+Divide and Conquer - Query 92: id=130153, x=75.83, y=136.72
+Sequential Scan - Query 93: id=82644, x=70.86, y=103.87
+Best First - Query 93: id=82644, x=70.86, y=103.87
+Divide and Conquer - Query 93: id=82644, x=70.86, y=103.87
+Sequential Scan - Query 94: id=18962, x=38.35, y=81.83
+Best First - Query 94: id=18962, x=38.35, y=81.83
+Divide and Conquer - Query 94: id=18962, x=38.35, y=81.83
+Sequential Scan - Query 95: id=91180, x=5.39, y=83.64
+Best First - Query 95: id=91180, x=5.39, y=83.64
+Divide and Conquer - Query 95: id=91180, x=5.39, y=83.64
+Sequential Scan - Query 96: id=95593, x=4.59, y=158.55
+Best First - Query 96: id=95593, x=4.59, y=158.55
+Divide and Conquer - Query 96: id=95593, x=4.59, y=158.55
+Sequential Scan - Query 97: id=15083, x=18.40, y=89.19
+Best First - Query 97: id=15083, x=18.40, y=89.19
+Divide and Conquer - Query 97: id=15083, x=18.40, y=89.19
+Sequential Scan - Query 98: id=107695, x=51.08, y=146.08
+Best First - Query 98: id=107695, x=51.08, y=146.08
+Divide and Conquer - Query 98: id=107695, x=51.08, y=146.08
+Sequential Scan - Query 99: id=103430, x=51.06, y=108.64
+Best First - Query 99: id=103430, x=51.06, y=108.64
+Divide and Conquer - Query 99: id=103430, x=51.06, y=108.64
+Sequential Scan - Query 100: id=33273, x=48.65, y=91.59
+Best First - Query 100: id=33273, x=48.65, y=91.59
+Divide and Conquer - Query 100: id=33273, x=48.65, y=91.59
+Sequential Scan - Query 101: id=93813, x=68.47, y=135.12
+Best First - Query 101: id=93813, x=68.47, y=135.12
+Divide and Conquer - Query 101: id=93813, x=68.47, y=135.12
+Sequential Scan - Query 102: id=128791, x=67.41, y=134.64
+Best First - Query 102: id=128791, x=67.41, y=134.64
+Divide and Conquer - Query 102: id=128791, x=67.41, y=134.64
+Sequential Scan - Query 103: id=69305, x=49.81, y=152.72
+Best First - Query 103: id=69305, x=49.81, y=152.72
+Divide and Conquer - Query 103: id=69305, x=49.81, y=152.72
+Sequential Scan - Query 104: id=68747, x=34.61, y=97.82
+Best First - Query 104: id=68747, x=34.61, y=97.82
+Divide and Conquer - Query 104: id=68747, x=34.61, y=97.82
+Sequential Scan - Query 105: id=11165, x=55.32, y=113.70
+Best First - Query 105: id=11165, x=55.32, y=113.70
+Divide and Conquer - Query 105: id=11165, x=55.32, y=113.70
+Sequential Scan - Query 106: id=39364, x=17.23, y=142.03
+Best First - Query 106: id=39364, x=17.23, y=142.03
+Divide and Conquer - Query 106: id=39364, x=17.23, y=142.03
+Sequential Scan - Query 107: id=143722, x=4.97, y=93.74
+Best First - Query 107: id=143722, x=4.97, y=93.74
+Divide and Conquer - Query 107: id=143722, x=4.97, y=93.74
+Sequential Scan - Query 108: id=72544, x=4.57, y=106.74
+Best First - Query 108: id=72544, x=4.57, y=106.74
+Divide and Conquer - Query 108: id=72544, x=4.57, y=106.74
+Sequential Scan - Query 109: id=21945, x=61.96, y=80.41
+Best First - Query 109: id=21945, x=61.96, y=80.41
+Divide and Conquer - Query 109: id=21945, x=61.96, y=80.41
+Sequential Scan - Query 110: id=7000, x=30.59, y=126.67
+Best First - Query 110: id=7000, x=30.59, y=126.67
+Divide and Conquer - Query 110: id=7000, x=30.59, y=126.67
+Sequential Scan - Query 111: id=122316, x=75.57, y=114.12
+Best First - Query 111: id=122316, x=75.57, y=114.12
+Divide and Conquer - Query 111: id=122316, x=75.57, y=114.12
+Sequential Scan - Query 112: id=1145, x=32.67, y=149.98
+Best First - Query 112: id=1145, x=32.67, y=149.98
+Divide and Conquer - Query 112: id=1145, x=32.67, y=149.98
+Sequential Scan - Query 113: id=80660, x=55.16, y=156.49
+Best First - Query 113: id=80660, x=55.16, y=156.49
+Divide and Conquer - Query 113: id=80660, x=55.16, y=156.49
+Sequential Scan - Query 114: id=13093, x=22.25, y=93.62
+Best First - Query 114: id=13093, x=22.25, y=93.62
+Divide and Conquer - Query 114: id=13093, x=22.25, y=93.62
+Sequential Scan - Query 115: id=98303, x=3.02, y=133.37
+Best First - Query 115: id=98303, x=3.02, y=133.37
+Divide and Conquer - Query 115: id=98303, x=3.02, y=133.37
+Sequential Scan - Query 116: id=16387, x=25.60, y=113.76
+Best First - Query 116: id=16387, x=25.60, y=113.76
+Divide and Conquer - Query 116: id=16387, x=25.60, y=113.76
+Sequential Scan - Query 117: id=19621, x=45.99, y=117.83
+Best First - Query 117: id=19621, x=45.99, y=117.83
+Divide and Conquer - Query 117: id=19621, x=45.99, y=117.83
+Sequential Scan - Query 118: id=30007, x=7.73, y=151.28
+Best First - Query 118: id=30007, x=7.73, y=151.28
+Divide and Conquer - Query 118: id=30007, x=7.73, y=151.28
+Sequential Scan - Query 119: id=19578, x=74.47, y=123.50
+Best First - Query 119: id=19578, x=74.47, y=123.50
+Divide and Conquer - Query 119: id=19578, x=74.47, y=123.50
+Sequential Scan - Query 120: id=17215, x=33.87, y=84.83
+Best First - Query 120: id=17215, x=33.87, y=84.83
+Divide and Conquer - Query 120: id=17215, x=33.87, y=84.83
+Sequential Scan - Query 121: id=55812, x=84.80, y=92.70
+Best First - Query 121: id=55812, x=84.80, y=92.70
+Divide and Conquer - Query 121: id=55812, x=84.80, y=92.70
+Sequential Scan - Query 122: id=34291, x=44.65, y=157.67
+Best First - Query 122: id=34291, x=44.65, y=157.67
+Divide and Conquer - Query 122: id=34291, x=44.65, y=157.67
+Sequential Scan - Query 123: id=70846, x=36.30, y=98.63
+Best First - Query 123: id=70846, x=36.30, y=98.63
+Divide and Conquer - Query 123: id=70846, x=36.30, y=98.63
+Sequential Scan - Query 124: id=91090, x=55.20, y=137.38
+Best First - Query 124: id=91090, x=55.20, y=137.38
+Divide and Conquer - Query 124: id=91090, x=55.20, y=137.38
+Sequential Scan - Query 125: id=130767, x=50.13, y=151.68
+Best First - Query 125: id=130767, x=50.13, y=151.68
+Divide and Conquer - Query 125: id=130767, x=50.13, y=151.68
+Sequential Scan - Query 126: id=26306, x=35.61, y=137.04
+Best First - Query 126: id=26306, x=35.61, y=137.04
+Divide and Conquer - Query 126: id=26306, x=35.61, y=137.04
+Sequential Scan - Query 127: id=53552, x=0.10, y=96.33
+Best First - Query 127: id=53552, x=0.10, y=96.33
+Divide and Conquer - Query 127: id=53552, x=0.10, y=96.33
+Sequential Scan - Query 128: id=127385, x=19.11, y=87.75
+Best First - Query 128: id=127385, x=19.11, y=87.75
+Divide and Conquer - Query 128: id=127385, x=19.11, y=87.75
+Sequential Scan - Query 129: id=148587, x=32.87, y=93.76
+Best First - Query 129: id=148587, x=32.87, y=93.76
+Divide and Conquer - Query 129: id=148587, x=32.87, y=93.76
+Sequential Scan - Query 130: id=87446, x=67.44, y=124.18
+Best First - Query 130: id=87446, x=67.44, y=124.18
+Divide and Conquer - Query 130: id=87446, x=67.44, y=124.18
+Sequential Scan - Query 131: id=104634, x=53.03, y=97.29
+Best First - Query 131: id=104634, x=53.03, y=97.29
+Divide and Conquer - Query 131: id=104634, x=53.03, y=97.29
+Sequential Scan - Query 132: id=77746, x=7.47, y=105.83
+Best First - Query 132: id=77746, x=7.47, y=105.83
+Divide and Conquer - Query 132: id=77746, x=7.47, y=105.83
+Sequential Scan - Query 133: id=54360, x=23.08, y=117.65
+Best First - Query 133: id=54360, x=23.08, y=117.65
+Divide and Conquer - Query 133: id=54360, x=23.08, y=117.65
+Sequential Scan - Query 134: id=119836, x=20.69, y=97.49
+Best First - Query 134: id=119836, x=20.69, y=97.49
+Divide and Conquer - Query 134: id=119836, x=20.69, y=97.49
+Sequential Scan - Query 135: id=35796, x=63.19, y=148.02
+Best First - Query 135: id=35796, x=63.19, y=148.02
+Divide and Conquer - Query 135: id=35796, x=63.19, y=148.02
+Sequential Scan - Query 136: id=110918, x=65.30, y=88.04
+Best First - Query 136: id=110918, x=65.30, y=88.04
+Divide and Conquer - Query 136: id=110918, x=65.30, y=88.04
+Sequential Scan - Query 137: id=21738, x=11.21, y=87.39
+Best First - Query 137: id=21738, x=11.21, y=87.39
+Divide and Conquer - Query 137: id=21738, x=11.21, y=87.39
+Sequential Scan - Query 138: id=124597, x=30.40, y=85.01
+Best First - Query 138: id=124597, x=30.40, y=85.01
+Divide and Conquer - Query 138: id=124597, x=30.40, y=85.01
+Sequential Scan - Query 139: id=51813, x=69.90, y=112.03
+Best First - Query 139: id=51813, x=69.90, y=112.03
+Divide and Conquer - Query 139: id=51813, x=69.90, y=112.03
+Sequential Scan - Query 140: id=24384, x=4.97, y=149.90
+Best First - Query 140: id=24384, x=4.97, y=149.90
+Divide and Conquer - Query 140: id=24384, x=4.97, y=149.90
+Sequential Scan - Query 141: id=39009, x=70.97, y=137.09
+Best First - Query 141: id=39009, x=70.97, y=137.09
+Divide and Conquer - Query 141: id=39009, x=70.97, y=137.09
+Sequential Scan - Query 142: id=47055, x=51.65, y=94.64
+Best First - Query 142: id=47055, x=51.65, y=94.64
+Divide and Conquer - Query 142: id=47055, x=51.65, y=94.64
+Sequential Scan - Query 143: id=148670, x=55.17, y=128.75
+Best First - Query 143: id=148670, x=55.17, y=128.75
+Divide and Conquer - Query 143: id=148670, x=55.17, y=128.75
+Sequential Scan - Query 144: id=139254, x=71.13, y=106.73
+Best First - Query 144: id=139254, x=71.13, y=106.73
+Divide and Conquer - Query 144: id=139254, x=71.13, y=106.73
+Sequential Scan - Query 145: id=45577, x=23.47, y=142.23
+Best First - Query 145: id=45577, x=23.47, y=142.23
+Divide and Conquer - Query 145: id=45577, x=23.47, y=142.23
+Sequential Scan - Query 146: id=95264, x=13.35, y=142.82
+Best First - Query 146: id=95264, x=13.35, y=142.82
+Divide and Conquer - Query 146: id=95264, x=13.35, y=142.82
+Sequential Scan - Query 147: id=36199, x=16.84, y=131.82
+Best First - Query 147: id=36199, x=16.84, y=131.82
+Divide and Conquer - Query 147: id=36199, x=16.84, y=131.82
+Sequential Scan - Query 148: id=125729, x=65.97, y=122.76
+Best First - Query 148: id=125729, x=65.97, y=122.76
+Divide and Conquer - Query 148: id=125729, x=65.97, y=122.76
+Sequential Scan - Query 149: id=69841, x=59.14, y=119.99
+Best First - Query 149: id=69841, x=59.14, y=119.99
+Divide and Conquer - Query 149: id=69841, x=59.14, y=119.99
+Sequential Scan - Query 150: id=112980, x=87.82, y=105.40
+Best First - Query 150: id=112980, x=87.82, y=105.40
+Divide and Conquer - Query 150: id=112980, x=87.82, y=105.40
+Sequential Scan - Query 151: id=112509, x=2.06, y=156.95
+Best First - Query 151: id=112509, x=2.06, y=156.95
+Divide and Conquer - Query 151: id=112509, x=2.06, y=156.95
+Sequential Scan - Query 152: id=12084, x=6.79, y=86.00
+Best First - Query 152: id=12084, x=6.79, y=86.00
+Divide and Conquer - Query 152: id=12084, x=6.79, y=86.00
+Sequential Scan - Query 153: id=111624, x=26.73, y=155.93
+Best First - Query 153: id=111624, x=26.73, y=155.93
+Divide and Conquer - Query 153: id=111624, x=26.73, y=155.93
+Sequential Scan - Query 154: id=83608, x=12.95, y=127.85
+Best First - Query 154: id=83608, x=12.95, y=127.85
+Divide and Conquer - Query 154: id=83608, x=12.95, y=127.85
+Sequential Scan - Query 155: id=76849, x=10.89, y=122.87
+Best First - Query 155: id=76849, x=10.89, y=122.87
+Divide and Conquer - Query 155: id=76849, x=10.89, y=122.87
+Sequential Scan - Query 156: id=93335, x=82.06, y=134.42
+Best First - Query 156: id=93335, x=82.06, y=134.42
+Divide and Conquer - Query 156: id=93335, x=82.06, y=134.42
+Sequential Scan - Query 157: id=38678, x=76.03, y=119.75
+Best First - Query 157: id=38678, x=76.03, y=119.75
+Divide and Conquer - Query 157: id=38678, x=76.03, y=119.75
+Sequential Scan - Query 158: id=100758, x=75.28, y=116.22
+Best First - Query 158: id=100758, x=75.28, y=116.22
+Divide and Conquer - Query 158: id=100758, x=75.28, y=116.22
+Sequential Scan - Query 159: id=911, x=25.99, y=93.27
+Best First - Query 159: id=911, x=25.99, y=93.27
+Divide and Conquer - Query 159: id=911, x=25.99, y=93.27
+Sequential Scan - Query 160: id=96266, x=79.09, y=125.85
+Best First - Query 160: id=96266, x=79.09, y=125.85
+Divide and Conquer - Query 160: id=96266, x=79.09, y=125.85
+Sequential Scan - Query 161: id=132459, x=78.96, y=105.63
+Best First - Query 161: id=132459, x=78.96, y=105.63
+Divide and Conquer - Query 161: id=132459, x=78.96, y=105.63
+Sequential Scan - Query 162: id=128663, x=30.75, y=110.76
+Best First - Query 162: id=128663, x=30.75, y=110.76
+Divide and Conquer - Query 162: id=128663, x=30.75, y=110.76
+Sequential Scan - Query 163: id=57160, x=79.10, y=131.89
+Best First - Query 163: id=57160, x=79.10, y=131.89
+Divide and Conquer - Query 163: id=57160, x=79.10, y=131.89
+Sequential Scan - Query 164: id=70694, x=80.08, y=80.58
+Best First - Query 164: id=70694, x=80.08, y=80.58
+Divide and Conquer - Query 164: id=70694, x=80.08, y=80.58
+Sequential Scan - Query 165: id=28087, x=56.32, y=94.66
+Best First - Query 165: id=28087, x=56.32, y=94.66
+Divide and Conquer - Query 165: id=28087, x=56.32, y=94.66
+Sequential Scan - Query 166: id=81355, x=4.70, y=92.10
+Best First - Query 166: id=81355, x=4.70, y=92.10
+Divide and Conquer - Query 166: id=81355, x=4.70, y=92.10
+Sequential Scan - Query 167: id=88413, x=16.42, y=83.45
+Best First - Query 167: id=88413, x=16.42, y=83.45
+Divide and Conquer - Query 167: id=88413, x=16.42, y=83.45
+Sequential Scan - Query 168: id=143779, x=59.78, y=146.14
+Best First - Query 168: id=143779, x=59.78, y=146.14
+Divide and Conquer - Query 168: id=143779, x=59.78, y=146.14
+Sequential Scan - Query 169: id=14316, x=4.19, y=139.18
+Best First - Query 169: id=14316, x=4.19, y=139.18
+Divide and Conquer - Query 169: id=14316, x=4.19, y=139.18
+Sequential Scan - Query 170: id=128192, x=65.21, y=116.60
+Best First - Query 170: id=128192, x=65.21, y=116.60
+Divide and Conquer - Query 170: id=128192, x=65.21, y=116.60
+Sequential Scan - Query 171: id=70668, x=87.14, y=129.01
+Best First - Query 171: id=70668, x=87.14, y=129.01
+Divide and Conquer - Query 171: id=70668, x=87.14, y=129.01
+Sequential Scan - Query 172: id=36752, x=18.65, y=147.20
+Best First - Query 172: id=36752, x=18.65, y=147.20
+Divide and Conquer - Query 172: id=36752, x=18.65, y=147.20
+Sequential Scan - Query 173: id=1643, x=32.55, y=123.77
+Best First - Query 173: id=1643, x=32.55, y=123.77
+Divide and Conquer - Query 173: id=1643, x=32.55, y=123.77
+Sequential Scan - Query 174: id=18118, x=88.06, y=89.51
+Best First - Query 174: id=18118, x=88.06, y=89.51
+Divide and Conquer - Query 174: id=18118, x=88.06, y=89.51
+Sequential Scan - Query 175: id=97478, x=27.54, y=149.31
+Best First - Query 175: id=97478, x=27.54, y=149.31
+Divide and Conquer - Query 175: id=97478, x=27.54, y=149.31
+Sequential Scan - Query 176: id=22900, x=58.54, y=117.98
+Best First - Query 176: id=22900, x=58.54, y=117.98
+Divide and Conquer - Query 176: id=22900, x=58.54, y=117.98
+Sequential Scan - Query 177: id=47681, x=80.73, y=153.85
+Best First - Query 177: id=47681, x=80.73, y=153.85
+Divide and Conquer - Query 177: id=47681, x=80.73, y=153.85
+Sequential Scan - Query 178: id=58184, x=49.88, y=88.59
+Best First - Query 178: id=58184, x=49.88, y=88.59
+Divide and Conquer - Query 178: id=58184, x=49.88, y=88.59
+Sequential Scan - Query 179: id=13143, x=27.19, y=111.32
+Best First - Query 179: id=13143, x=27.19, y=111.32
+Divide and Conquer - Query 179: id=13143, x=27.19, y=111.32
+Sequential Scan - Query 180: id=118678, x=81.93, y=159.60
+Best First - Query 180: id=118678, x=81.93, y=159.60
+Divide and Conquer - Query 180: id=118678, x=81.93, y=159.60
+Sequential Scan - Query 181: id=53985, x=45.43, y=125.90
+Best First - Query 181: id=53985, x=45.43, y=125.90
+Divide and Conquer - Query 181: id=53985, x=45.43, y=125.90
+Sequential Scan - Query 182: id=121437, x=2.86, y=87.71
+Best First - Query 182: id=121437, x=2.86, y=87.71
+Divide and Conquer - Query 182: id=121437, x=2.86, y=87.71
+Sequential Scan - Query 183: id=147221, x=17.37, y=114.02
+Best First - Query 183: id=147221, x=17.37, y=114.02
+Divide and Conquer - Query 183: id=147221, x=17.37, y=114.02
+Sequential Scan - Query 184: id=83504, x=31.79, y=116.14
+Best First - Query 184: id=83504, x=31.79, y=116.14
+Divide and Conquer - Query 184: id=83504, x=31.79, y=116.14
+Sequential Scan - Query 185: id=132434, x=30.78, y=100.19
+Best First - Query 185: id=132434, x=30.78, y=100.19
+Divide and Conquer - Query 185: id=132434, x=30.78, y=100.19
+Sequential Scan - Query 186: id=139177, x=58.56, y=143.25
+Best First - Query 186: id=139177, x=58.56, y=143.25
+Divide and Conquer - Query 186: id=139177, x=58.56, y=143.25
+Sequential Scan - Query 187: id=120664, x=35.72, y=156.85
+Best First - Query 187: id=120664, x=35.72, y=156.85
+Divide and Conquer - Query 187: id=120664, x=35.72, y=156.85
+Sequential Scan - Query 188: id=140958, x=88.08, y=107.55
+Best First - Query 188: id=140958, x=88.08, y=107.55
+Divide and Conquer - Query 188: id=140958, x=88.08, y=107.55
+Sequential Scan - Query 189: id=33437, x=36.81, y=134.62
+Best First - Query 189: id=33437, x=36.81, y=134.62
+Divide and Conquer - Query 189: id=33437, x=36.81, y=134.62
+Sequential Scan - Query 190: id=37782, x=21.45, y=110.68
+Best First - Query 190: id=37782, x=21.45, y=110.68
+Divide and Conquer - Query 190: id=37782, x=21.45, y=110.68
+Sequential Scan - Query 191: id=4236, x=33.82, y=92.75
+Best First - Query 191: id=4236, x=33.82, y=92.75
+Divide and Conquer - Query 191: id=4236, x=33.82, y=92.75
+Sequential Scan - Query 192: id=95886, x=31.03, y=125.90
+Best First - Query 192: id=95886, x=31.03, y=125.90
+Divide and Conquer - Query 192: id=95886, x=31.03, y=125.90
+Sequential Scan - Query 193: id=121946, x=34.38, y=102.97
+Best First - Query 193: id=121946, x=34.38, y=102.97
+Divide and Conquer - Query 193: id=121946, x=34.38, y=102.97
+Sequential Scan - Query 194: id=78489, x=40.80, y=120.28
+Best First - Query 194: id=78489, x=40.80, y=120.28
+Divide and Conquer - Query 194: id=78489, x=40.80, y=120.28
+Sequential Scan - Query 195: id=127735, x=66.89, y=83.45
+Best First - Query 195: id=127735, x=66.89, y=83.45
+Divide and Conquer - Query 195: id=127735, x=66.89, y=83.45
+Sequential Scan - Query 196: id=113040, x=28.15, y=151.61
+Best First - Query 196: id=113040, x=28.15, y=151.61
+Divide and Conquer - Query 196: id=113040, x=28.15, y=151.61
+Sequential Scan - Query 197: id=15774, x=29.58, y=82.75
+Best First - Query 197: id=15774, x=29.58, y=82.75
+Divide and Conquer - Query 197: id=15774, x=29.58, y=82.75
+Sequential Scan - Query 198: id=42040, x=10.01, y=93.67
+Best First - Query 198: id=42040, x=10.01, y=93.67
+Divide and Conquer - Query 198: id=42040, x=10.01, y=93.67
+Sequential Scan - Query 199: id=50824, x=16.51, y=152.72
+Best First - Query 199: id=50824, x=16.51, y=152.72
+Divide and Conquer - Query 199: id=50824, x=16.51, y=152.72
+Sequential Scan - Query 200: id=128803, x=42.12, y=137.17
+Best First - Query 200: id=128803, x=42.12, y=137.17
+Divide and Conquer - Query 200: id=128803, x=42.12, y=137.17
+
+Total running time (Sequential Scan): 7.177494 seconds, Average time: 0.035887 seconds
+Total running time (Best First): 30.607147 seconds, Average time: 0.153036 seconds
+Total running time (Divide and Conquer): 28.899093 seconds, Average time: 0.144495 seconds
